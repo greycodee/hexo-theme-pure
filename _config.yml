@@ -6,7 +6,7 @@ menu:
   Tags: tags  # 标签
   Repository: repository  # github repositories
   # Books: books  # 豆瓣书单
-  # Links: links  # 友链
+  Links: links  # 友链
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -32,8 +32,8 @@ site:
     height: 40
     url: ../images/logo.png
   title: 灰色World # 页面title
-  favicon: /images/favicon-32x32-next.png
-  board: <p>欢迎交流与分享经验!</p> # 站点公告
+  favicon: /favicon.ico
+  board: <p>记录生活点滴!</p> # 站点公告
   copyright: true # 底部版权信息
 
 # config
@@ -86,11 +86,11 @@ donate:
   enable: true
   # 微信打赏
   wechatpay:
-    qrcode: images/donate/wechatpayimg.png
+    qrcode: images/donate/wechatpayimg.jpg
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: images/donate/alipayimg.png 
+    qrcode: images/donate/alipayimg.jpg
     title: 支付宝
 
 # Share
@@ -108,12 +108,12 @@ github:
 # Gitment
 # Introduction: https://imsun.net/posts/gitment-introduction/
 comment:
-  type: valine  # 启用哪种评论系统
+  type: livere  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
     uid: 1783844 # enter youyan uid 
   livere:
-    uid: # enter youyan uid 
+    uid: MTAyMC81MjkwNC8yOTM4MQ==
   gitment:
     githubID: 
     repo: 
@@ -195,42 +195,56 @@ profile:
   social:
     links:
       github: https://github.com/greycodee
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      # weibo: http://weibo.com/cofess
+      twitter: https://twitter.com/8d1Tgi4tDvhEY5o
       # facebook: /
       # dribbble: /
-      behance: https://wcofessww.behance.net/cofess
+      # behance: https://wcofessww.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    会点后端: ★★★★★
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/greycodee
+    Blog: http://mjava.top
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 后端
+    - 后端开发
+    - 后端重构
+    - Web后端
   # My Personal Works
-  works:
-    name:
-      link: http://www.example.com
-      date: 2016
+  # works:
+  #   name:
+  #     link: http://www.example.com
+  #     date: 2016
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    greycodee/gorename: https://github.com/greycodee/gorename
+    greycodee/gofund: https://github.com/greycodee/gofund
+
+# hexo-neat
+neat_enable: true
+neat_html:
+  enable: true
+  exclude:  
+neat_css:
+  enable: true
+  exclude:
+    - '*.min.css'
+neat_js:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude:
+    - '*.min.js'
+
+translate_title:
+  translate_way: google    #google | baidu | youdao
+  youdao_api_key: XXX
+  youdao_keyfrom: XXX
+  is_need_proxy: false     #true | false
+  proxy_url: http://localhost:8123
