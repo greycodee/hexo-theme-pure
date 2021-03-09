@@ -5,8 +5,8 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-  # Books: books  # 豆瓣书单
-  # Links: links  # 友链
+  Books: books  # 豆瓣书单
+  Links: links  # 友链
   About: about  # 关于
 
 # Enable/Disable menu icons
@@ -31,10 +31,10 @@ site:
     width: 40
     height: 40
     url: ../images/logo.png
-  title: 灰色World # 页面title
-  favicon: /images/favicon-32x32-next.png
+  title: Hexo # 页面title
+  favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
-  copyright: true # 底部版权信息
+  copyright: false # 底部版权信息
 
 # config
 config:
@@ -102,7 +102,7 @@ share:
 
 # Github
 github: 
-  username: greycodee  # github username
+  username: cofess  # github username
 
 # Comment
 # Gitment
@@ -186,20 +186,20 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 灰色World
-  author_title: 潜水是喧哗的，深水是沉默的
+  author: 昵称
+  author_title: Web Developer & Designer
   author_description: 个人简介。
-  location: Hangzhou, China
-  follow: https://github.com/greycodee
+  location: Shenzhen, China
+  follow: https://github.com/cofess
   # Social Links
   social:
     links:
-      github: https://github.com/greycodee
+      github: https://github.com/cofess
       weibo: http://weibo.com/cofess
       twitter: https://twitter.com/iwebued
       # facebook: /
       # dribbble: /
-      behance: https://wcofessww.behance.net/cofess
+      behance: https://www.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
