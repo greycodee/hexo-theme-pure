@@ -121,11 +121,11 @@ comment:
     ClientSecret: 
     lazy: false
   gitalk: # gitalk. https://gitalk.github.io/
-    owner: greycodee
-    admin: greycodee
-    repo: blog-comment
-    ClientID: 1285c7d6c01b94eaac83
-    ClientSecret: 6984733d040b27f6c9b1a35aadff424c703db30f
+    owner: 'greycodee'
+    admin: 'greycodee'
+    repo: 'blog-comment'
+    ClientID: '1285c7d6c01b94eaac83'
+    ClientSecret: '6984733d040b27f6c9b1a35aadff424c703db30f'
     proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
   valine: # Valine. https://valine.js.org
     appid:  # your leancloud application appid
