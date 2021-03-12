@@ -30,9 +30,9 @@ site:
     enabled: true
     width: 40
     height: 40
-    url: http://cdn.mjava.top/blog/%E7%81%B0%E8%89%B2Code.jpg
+    url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/avatar.jpg
   title: 灰色World # 页面title
-  favicon: /favicon.ico
+  favicon: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/favicon.ico
   board: <p>记录生活点滴!</p> # 站点公告
   copyright: true # 底部版权信息
 
@@ -185,7 +185,7 @@ fb_app_id:
 # profile
 profile:
   enabled: true # Whether to show profile bar
-  avatar: http://cdn.mjava.top/blog/%E7%81%B0%E8%89%B2Code.jpg
+  avatar: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: 灰色World
   author_title: 潜水是喧哗的，深水是沉默的
