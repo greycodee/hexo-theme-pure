@@ -8,6 +8,7 @@ menu:
   Movies: 电影
   Links: 友链
   About: 关于
+  Wikis: wiki
 nav:
   all: All
   older: 下一篇
@@ -31,6 +32,7 @@ page:
   links: 友情链接
   links-desc: 欢迎交换链接，可在当前页面留言,国内Gitalk留言加载可能缓慢，请耐心等等模块出现后留言
   about: 关于
+  wikis-desc: 学习时编写的wiki笔记，持续更新中...
 pagination: 
   next: 下一页
   prev: 上一页 

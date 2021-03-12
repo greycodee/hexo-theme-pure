@@ -8,6 +8,7 @@ menu:
   Movies: 電影
   Links: 友鏈
   About: 關於
+  Wikis: wiki
 nav:
   all: All
   older: 下一篇
@@ -31,6 +32,7 @@ page:
   links: 友情鏈接
   links-desc: 歡迎交換鏈接，可在當前頁面留言
   about: 關於
+  wikis-desc: 學習時編寫的wiki筆記，持續更新中...
 pagination: 
   next: 下一頁
   prev: 上一頁 

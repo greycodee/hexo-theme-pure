@@ -8,6 +8,7 @@ menu:
   Movies: Movies
   Links: Links
   About: About
+  Wikis: wiki
 nav:
   all: All
   older: Older
@@ -31,6 +32,7 @@ page:
   links: Links
   links-desc: Welcome to the exchange link, you can leave a message on this page
   about: About
+  wikis-desc: The wiki notes written while studying are being updated continuously...
 pagination: 
   next: Next
   prev: Prev
