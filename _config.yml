@@ -189,9 +189,9 @@ profile:
   enabled: true # Whether to show profile bar
   avatar: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/avatar.jpg
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 灰色World
+  author: oooooo灰灰
   author_title: 潜水是喧哗的，深水是沉默的
-  author_description: 个人简介。
+  author_description: 专业打工人
   location: Hangzhou, China
   follow: http://mjava.top
   # Social Links
