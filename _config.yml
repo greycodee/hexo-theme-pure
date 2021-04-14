@@ -193,7 +193,7 @@ profile:
   author_title: 潜水是喧哗的，深水是沉默的
   author_description: 专业打工人
   location: Hangzhou, China
-  follow: http://mjava.top
+  follow: http://blog.mjava.top
   # Social Links
   social:
     links:
@@ -211,7 +211,7 @@ profile:
   # My Personal Links
   links:
     Github: https://github.com/greycodee
-    Blog: http://mjava.top
+    Blog: http://blog.mjava.top
   # My Personal Labels
   labels:
     - 后端
