@@ -32,7 +32,7 @@ site:
     enabled: true
     width: 40
     height: 40
-    url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/avatar.jpg
+    url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/logo3.jpg
   title: 灰色World # 页面title
   favicon: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/favicon.ico
   board: <p>记录生活点滴!</p> # 站点公告
