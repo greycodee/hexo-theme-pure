@@ -164,8 +164,6 @@ pv:
     enable: false  # leancloud统计
     app_id: # leancloud <AppID>
     app_key: # leancloud <AppKey>
-  cnzz:
-    enable: true # 友盟站长统计
         
 # wordcount
 postCount:
