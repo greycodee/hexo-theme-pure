@@ -33,9 +33,9 @@ site:
     width: 40
     height: 40
     url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/logo3.png
-  title: 灰色World # 页面title
+  title: 打工纪实 # 页面title
   favicon: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/favicon.ico
-  board: <p>记录生活点滴!</p> # 站点公告
+  board: <p>记录打工生活!</p> # 站点公告
   copyright: true # 底部版权信息
 
 # config
@@ -164,6 +164,8 @@ pv:
     enable: false  # leancloud统计
     app_id: # leancloud <AppID>
     app_key: # leancloud <AppKey>
+  cnzz:
+    enable: true # 友盟站长统计
         
 # wordcount
 postCount:
