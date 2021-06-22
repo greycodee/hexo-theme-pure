@@ -32,9 +32,9 @@ site:
     enabled: true
     width: 40
     height: 40
-    url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/logo3.png
+    url: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io/images/logo3.png
   title: 打工纪实 # 页面title
-  favicon: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/favicon.ico
+  favicon: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io/favicon.ico
   board: <p>记录打工生活!</p> # 站点公告
   copyright: true # 底部版权信息
 
@@ -88,11 +88,11 @@ donate:
   enable: false
   # 微信打赏
   wechatpay:
-    qrcode: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/donate/wechatpayimg.jpg
+    qrcode: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io/images/donate/wechatpayimg.jpg
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/donate/alipayimg.jpg
+    qrcode: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io/images/donate/alipayimg.jpg
     title: 支付宝
 
 # Share
@@ -187,7 +187,7 @@ fb_app_id:
 # profile
 profile:
   enabled: true # Whether to show profile bar
-  avatar: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io@master/images/logo3.png
+  avatar: https://cdn.jsdelivr.net/gh/greycodee/greycodee.github.io/images/logo3.png
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: oooooo灰灰
   author_title: 潜水是喧哗的，深水是沉默的
